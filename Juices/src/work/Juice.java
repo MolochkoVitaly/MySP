@@ -6,6 +6,9 @@ import java.util.Collections;
 
 public class Juice {
     private ArrayList<String> fruits = new ArrayList<String>();
+    private ArrayList<String> fruits2 = new ArrayList<String>();
+    private ArrayList<String> fruits3 = new ArrayList<String>();
+    private ArrayList<String> fruits4 = new ArrayList<String>();
 
 
     public Juice(ArrayList<String> fruit) {
